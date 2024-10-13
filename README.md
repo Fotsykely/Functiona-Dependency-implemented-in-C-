@@ -18,7 +18,7 @@ This axiom says, if Y is a subset of X, then X determines Y
     
     if Y⊆X so X-->Y
     
-###Axiom of augmentation
+### Axiom of augmentation
 The axiom of augmentation, also known as a partial dependency, says if X determines Y, then XW determines YW for any W
     
     if X->Y then W,X->W,Y
