@@ -37,3 +37,5 @@ This rule suggests that if two tables are separate, and the PK is the same, you 
 Decomposition is the reverse of the Union rule. If you have a table that appears to contain two entities that are determined by the same PK, consider breaking them up into two tables. This rule states that if X determines Y and Z, then X determines Y and X determines Z separately
     
     if X->Y,Z then X->Y and X->Z
+
+Check More on this site: https://opentextbc.ca/dbdesign01/chapter/chapter-11-functional-dependencies/
