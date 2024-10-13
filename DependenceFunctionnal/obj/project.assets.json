@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/andorazafy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/andorazafy/Projects/Functiona-Dependency-implemented-in-C-/DependenceFunctionnal/DependenceFunctionnal.csproj",
+      "projectName": "DependenceFunctionnal",
+      "projectPath": "/Users/andorazafy/Projects/Functiona-Dependency-implemented-in-C-/DependenceFunctionnal/DependenceFunctionnal.csproj",
+      "packagesPath": "/Users/andorazafy/.nuget/packages/",
+      "outputPath": "/Users/andorazafy/Projects/Functiona-Dependency-implemented-in-C-/DependenceFunctionnal/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/andorazafy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

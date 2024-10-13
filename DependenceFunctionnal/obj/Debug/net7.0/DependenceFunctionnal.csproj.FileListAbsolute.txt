@@ -1,0 +1,15 @@
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/bin/Debug/net7.0/DependenceFunctionnal
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/bin/Debug/net7.0/DependenceFunctionnal.deps.json
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/bin/Debug/net7.0/DependenceFunctionnal.runtimeconfig.json
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/bin/Debug/net7.0/DependenceFunctionnal.dll
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/bin/Debug/net7.0/DependenceFunctionnal.pdb
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.csproj.AssemblyReference.cache
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.AssemblyInfoInputs.cache
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.AssemblyInfo.cs
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.csproj.CoreCompileInputs.cache
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.dll
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/refint/DependenceFunctionnal.dll
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.pdb
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/DependenceFunctionnal.genruntimeconfig.cache
+/Users/andorazafy/Projects/DependenceFunctionnal/DependenceFunctionnal/obj/Debug/net7.0/ref/DependenceFunctionnal.dll
